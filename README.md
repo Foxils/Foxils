@@ -12,4 +12,4 @@ I'm an amateur who's diving into back-end development. Right now, I'm using GitH
 ![Will's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&hide_title=true)
 
 <!-- If you want to include a Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yFoxils&langs_count=10)
