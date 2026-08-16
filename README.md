@@ -1,4 +1,4 @@
-General tinkerer, fixer-uper and Linux (Fedora btw) enthusiast.
+General tinkerer, fixer-uper and Linux enthusiast.
 
 I recently transitioned to Linux as my primary OS. On GitHub, I contribute to lightweight projects and develop cross-platform utilities and scripts for Linux and Windows. Although I am still learning and not a professional developer, I enjoy collaborating and building useful tools.
 
